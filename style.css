@@ -45,3 +45,9 @@ body {
   padding-left: 15px;
   border-left: 4px solid #ccc;
 }
+
+.photo1 img {
+  width: 50%;
+  display: block;
+  margin-right: auto;
+}
